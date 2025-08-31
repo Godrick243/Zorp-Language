@@ -1,0 +1,33 @@
+# -----------------------------
+# Zorp Vocabulary List – Emotions / States
+# -----------------------------
+
+lum       # happy / fine
+kryn      # sad
+vrek      # angry
+shiv      # scared
+plimn     # excited
+doffn     # tired
+zlem      # bored
+blink     # surprised
+melo      # calm
+gryn      # anxious
+drakn     # hate
+plyn      # proud
+soln      # lonely
+blor      # confused
+frinl     # frustrated
+glarn     # joyful
+sharn     # nervous
+klivn     # jealous
+trorn     # hopeful
+plurn     # stressed
+skivn     # restless
+drivn     # determined
+flarn     # playful
+torn      # gloomy
+vorn      # sadistic
+murn      # melancholic
+narn      # embarrassed
+blivn     # shy
+grivn     # regretful

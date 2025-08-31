@@ -1,0 +1,50 @@
+# -----------------------------
+# Zorp Vocabulary List – Objects / Things
+# -----------------------------
+
+torp      # home / house
+karn      # door
+vin       # window
+trex      # table
+plar      # chair
+doffel    # bed
+glun      # water
+lix       # book
+graf      # pen
+kling     # phone
+klik      # key
+sako      # bag
+drap      # clothes
+skivn     # shoes
+trakn     # car
+bik       # bike
+frin      # tree / forest
+blox      # flower
+rok       # stone / rock
+flam      # fire
+vinr      # air / wind
+sol       # sun
+lun       # moon
+starn     # star
+skyn      # sky
+ter       # ground / soil
+plarn     # plant
+flarn     # fruit
+gron      # vegetable
+bril      # glass
+trik      # cup / mug
+sharn     # plate
+klov      # bowl
+drakn     # bottle
+plov      # box / container
+trarn     # bag / pouch
+skarn     # tool
+glarn     # machine
+brank     # chair / stool
+shivn     # lamp / light
+flurn     # rope / string
+klim      # brush
+drivn     # sword / weapon
+triv      # shield
+plurn     # bucket
+skivl     # carpet / rug

@@ -1,0 +1,33 @@
+# -----------------------------
+# Zorp Vocabulary List – Pronouns / People
+# -----------------------------
+
+mi        # I / me / I'm
+tu        # you
+sa        # he / she
+nu        # we / us
+zi        # they
+kli       # friend
+poma      # parent
+jini      # child
+fami      # family
+rax       # stranger
+nubo      # neighbor
+drex      # boss / leader
+glim      # colleague
+fen       # lover / love
+krag      # enemy
+linr      # sibling
+vorn      # cousin
+drix      # uncle / aunt
+plun      # grandparent
+mirn      # baby
+brix      # toddler
+sarn      # teenager
+flok      # adult
+gorn      # elder
+tivn      # teacher
+jark      # student
+wexr      # mentor
+shorn     # apprentice
+nuvr      # companion

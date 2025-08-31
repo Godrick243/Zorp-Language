@@ -1,0 +1,41 @@
+# -----------------------------
+# Zorp Vocabulary List – Function Words / Contractions
+# -----------------------------
+
+iskr      # it's / it is / this is / that is / that's
+isr       # is / am / are
+iskra     # it
+ther      # that
+rel       # really
+su        # so
+nunr      # won't / will not
+dunr      # don't / do not
+kan       # can
+kanr      # cannot
+an        # and
+or        # or
+butr      # but
+ifr       # if
+bakr      # because
+forr      # for
+witr      # with
+wountr    # without
+ofr       # of
+inor      # in
+onr       # on
+atr       # at
+abotr     # about
+lyk       # like
+asr       # as
+tu        # to
+fromr     # from
+byr       # by
+upar      # up
+dorn      # down
+natr      # not
+plarn     # about / regarding
+flarn     # towards
+sharn     # through
+klivn     # around
+drivn     # inside
+trivn     # outside

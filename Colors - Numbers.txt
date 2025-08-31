@@ -1,0 +1,36 @@
+# -----------------------------
+# Zorp Vocabulary List – Colors / Numbers
+# -----------------------------
+
+rax       # red
+blun      # blue
+glin      # green
+yel       # yellow
+blak      # black
+whit      # white
+gry       # gray
+pur       # purple
+ornj      # orange
+pnk       # pink
+brn       # brown
+clun      # cyan / light blue
+muv       # mauve
+turk      # turquoise
+lime      # lime green
+goldn     # gold
+silv      # silver
+bron      # bronze
+ivrn      # ivory
+maro      # maroon
+
+# Numbers
+nan       # zero
+un        # one
+du        # two
+tri       # three
+kvar      # four
+pent      # five
+siks      # six
+sev       # seven
+okta      # eight
+nin       # nine

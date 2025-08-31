@@ -1,0 +1,33 @@
+# -----------------------------
+# Zorp Vocabulary List – Time / Days
+# -----------------------------
+
+sol       # day
+lun       # night
+morn      # morning
+eev       # evening
+hor       # hour
+min       # minute
+sek       # second
+tsol      # today
+tsom      # tomorrow
+ysol      # yesterday
+wex       # week
+mon       # month
+yrn       # year
+plor      # dawn
+flun      # dusk
+klor      # midnight
+trorn     # noon
+skivn     # moment
+drivn     # season
+plarn     # spring
+blorn     # summer
+frivn     # autumn
+skarn     # winter
+glarn     # fortnight
+trivn     # millennium
+flarn     # century
+sharn     # decade
+klivn     # era
+narn      # age

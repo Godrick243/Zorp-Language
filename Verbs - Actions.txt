@@ -1,0 +1,46 @@
+# -----------------------------
+# Zorp Vocabulary List – Verbs / Actions
+# -----------------------------
+
+zorp      # eat / food
+glum      # drink
+doff      # sleep
+trak      # go / move
+flin      # come / came
+vik       # see / look
+rin       # hear / listen
+jab       # talk / say / tell
+mern      # think
+lix       # read
+graf      # write
+skiv      # run
+plim      # jump
+trox      # walk
+halt      # stop
+krel      # open
+shud      # close
+pum       # push
+flak      # pull
+nak       # pick
+tork      # throw
+grip      # catch
+drak      # throw away
+tlin      # hold
+kon       # build
+frak      # break
+plarn     # climb
+skarn     # slide
+driv      # drive
+swim      # swim
+durn      # dig
+shurn     # shake
+brik      # break apart
+glarn     # grab / seize
+plov      # push forward
+trarn     # drag
+flurn     # flip / turn over
+skarn     # sneak
+striv     # strive / try hard
+klov      # knock
+wern      # warn
+knar      # sex
