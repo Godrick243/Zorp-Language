@@ -1,6 +1,6 @@
 # This is the changelog for the Zorp Language
 
-## Version 1.0.1 (Current) [2025-08-31] *(I got exited ok guys?)*
+## Version 1.0.1 (Current) [2025-08-31] *(I got excited ok guys?)*
 - Added the .txt file with dialogue examples
 
 ## Version 1.0.0 [2025-08-31]
