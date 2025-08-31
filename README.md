@@ -82,11 +82,9 @@ The Zorp vocabulary is organized into compartments to make it easier to learn an
 - **Emotions / States**  
 - **Objects / Things**  
 - **Time / Days**  
-- **Colors**  
-- **Numbers**  
+- **Colors / Numbers**
 - **Function Words / Contractions**  
-- **Misc / Abstract**  
-- **Greetings**  
+- **Misc / Abstract/ Greetings**  
 
 Each compartment can be expanded independently to add more words as you grow your Zorp vocabulary.  
 
