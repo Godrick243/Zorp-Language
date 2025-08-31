@@ -5,6 +5,8 @@ that was in a box labeled: "For future me - Things I did when I was young" The l
 
 Zorp is a unique, expressive language designed for secret messages, playful communication, and creative writing. This guide explains **how to read, pronounce, and use Zorp** to its full potential.
 
+**NOTE:** Read this file first, then open the "Compartments" folder and read the file: "COMPARTMENTSGUIDE.md" as it will guide you on how to find all words.
+
 ---
 
 ## 1. Pronunciation Basics
