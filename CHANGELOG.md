@@ -3,7 +3,7 @@
 ## Version 1.0.1 (Current) [2025-08-31] (I got exited ok guys?)
 - Added the .txt file with dialogue examples
 
-## Version 1.0.0 (Current) [2025-08-31]
+## Version 1.0.0 [2025-08-31]
 - Added the base rules and words.
 - Setup the compartments and all of the current files.
 
